@@ -2,7 +2,7 @@
 
 💻 Full Stack Developer | React.js | Java Spring Boot | MCP Integrations
 
-I’m a Full Stack Developer with 2+ years of experience building scalable web applications and integrating real-world APIs. I specialize in crafting seamless frontend experiences with React and building robust backend services using Spring Boot and Node.js.
+I’m a Full Stack Developer with around 4 years of experience building scalable web applications and integrating real-world APIs. I specialize in crafting seamless frontend experiences with React and building robust backend services using Spring Boot and Node.js.
 
 🚀 Featured Project
 🛒 Party Cart AI (Swiggy MCP Integration)
